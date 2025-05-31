@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LargestOfThree {
+public class Q1_FindTheLargestOfThree {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
