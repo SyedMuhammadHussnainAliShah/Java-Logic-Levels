@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PalindromeArray {
+public class Q1_CheckArrayIsPalindrome {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
